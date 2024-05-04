@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi👋, I'm Beyla
 
 <!--
 **beylar/beylar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## I am a Frontend Developer
+- 🔭 I’m currently working on Server Side development
+- 🌱 I’m currently learning NextJS and PostgreSQL
+-  👯 I’m looking to collaborate on open-source projects for both app and web development
+-  📫 How to reach me: irakozebeig@gmail.com
+-  ⚡ Fun fact: <b> I think I'm a workaholic <b>
+
+
+
