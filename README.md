@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Server Side development
 - 🌱 I’m currently learning NextJS and PostgreSQL
 -  👯 I’m looking to collaborate on open-source projects for both app and web development
--  📫 How to reach me: irakozebeig@gmail.com
+-  📫 How to reach me: beylaruz@gmail.com
 -  ⚡ Fun fact: <b> I think I'm a workaholic <b>
 
 
